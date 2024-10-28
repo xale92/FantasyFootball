@@ -1,0 +1,71 @@
+body {
+    background: url("images/fanta.jpg") ;
+    background-size: 80%; 
+    background-repeat: no-repeat;
+    background-position: right ;
+    }
+
+#banner { display: 20%;}
+
+h1 {color: orangered;}
+h2 {color: green;}
+h3 {color: green;}
+p {color: blue;}
+
+form {color: red;}
+li {font-weight: bold;}
+table {
+        border: 1px solid black;
+        background-color: white; }
+th, td { 
+        border: 1px solid black; 
+        padding: 2px; 
+        text-align: left; }
+
+td {color: blue;}
+
+
+#voti {color: orangered;}
+#finale {color: red;}
+#score {color:orangered;}
+
+a:hover, a:active {
+    text-decoration: underline;
+    color: orangered;
+    background-color:rgb(55, 121, 244); 
+    border: 2px solid #FCA800; 
+    color: #FF8800;               
+    font-weight: bold;}
+
+button{
+        background-color:rgb(55, 121, 244); 
+        border: 2px solid #FCA800; 
+        color: #FF8800;               
+        font-weight: bold;}
+
+input:hover {
+        text-decoration:underline white;}
+
+#submit { 
+        background-color: #FF8800; 
+        border: 2px solid rgb(55, 121, 244); 
+        color: rgb(55, 121, 244);               
+        font-weight: bold;}
+
+#submit1 {
+        background-color:rgb(55, 121, 244); 
+        border: 2px solid #FCA800; 
+        color: #FF8800;               
+        font-weight: bold;}
+
+
+#delete:hover{  
+            background-color:black; 
+            border: 2px solid ; 
+            color: orange;               
+            font-weight: bold;}
+
+
+
+
+
